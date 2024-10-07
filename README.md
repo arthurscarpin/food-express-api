@@ -40,6 +40,7 @@ CREATE TABLE Restaurante (
   NomeRestaurante NVARCHAR(100) NOT NULL,
   Categoria NVARCHAR(50) NOT NULL,
   Status NVARCHAR(20) NOT NULL
+)
 ```
 
 5. Executar o comando a seguir para iniciar a aplicação:
